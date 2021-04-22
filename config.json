@@ -2,17 +2,14 @@
  {
   "username": "ThibautPlg",
   "name": "Thy'",
-  "userimg": "https://avatars3.githubusercontent.com/u/17176051?v=4",
-  "sort": "updated",
+  "userimg": "https://avatars.githubusercontent.com/u/17176051?v=4",
+  "sort": "star",
   "order": "desc",
   "includeFork": true,
   "theme": "dark.css",
   "types": [
-   "owner"
+   "all"
   ],
-  "twitter": "thibaut_plg",
-  "linkedin": null,
-  "medium": null,
-  "dribbble": null
+  "twitter": "thibaut_plg"
  }
 ]
