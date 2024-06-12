@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ThibautPlg Github page</title>
+    <link>https://thibautplg.github.io/posts/</link>
+    <description>Recent content in Posts on ThibautPlg Github page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thibautplg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Custom Supertuxkart Server</title>
+      <link>https://thibautplg.github.io/posts/a-custom-supertuxkart-server/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://thibautplg.github.io/posts/a-custom-supertuxkart-server/</guid>
+      
+      <description>Each year, my company is organizing an offsite week in a nice place for all of us to meet, introduce new employees and share a bit of our life. One of the main attractions is a bunch of races on the FOSS game SuperTuxKart, for which I’m quite bad.
+This year, I had an idea: instead of trying to host a game on someone’s computer and having trouble with firewall and stuff, what if I prepared a server and literally plug’n’play it during this week?</description>
+      
+    </item>
+    
+  </channel>
+</rss>
