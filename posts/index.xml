@@ -6,7 +6,21 @@
     <description>Recent content in Posts on ThibautPlg Github page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thibautplg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thibautplg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From a server to a toyline</title>
+      <link>https://thibautplg.github.io/posts/from-a-server-to-a-toyline/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://thibautplg.github.io/posts/from-a-server-to-a-toyline/</guid>
+      
+      <description>&lt;p&gt;This is a followup to &amp;ldquo;&lt;a href=&#34;https://thibautplg.github.io/posts/a-custom-supertuxkart-server/&#34;&gt;A Custom Supertuxkart Server&lt;/a&gt;&amp;rdquo; post from june 2024.&lt;/p&gt;
+&lt;p&gt;People generally enjoyed my custom NUC-Kart STK server, unfortunately I had to get back home with it. Once our offsite week has ended, our boss (who coincidentally happens to have won our tournament) green-lighted the idea of having a full-time running VM hosting a STK server, based on what I’ve done on the NUC.&lt;/p&gt;
+&lt;h2 id=&#34;going-virtual&#34;&gt;Going virtual&lt;/h2&gt;
+&lt;p&gt;For this 2025 edition of our offsite annual meeting, I had to travel by train. Unfortunately that means smaller carrying cases and trying to pack as efficiency as possible. As such, the NUC server won’t be with us this year.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>A Custom Supertuxkart Server</title>
       <link>https://thibautplg.github.io/posts/a-custom-supertuxkart-server/</link>
